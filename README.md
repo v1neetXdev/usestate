@@ -29,7 +29,7 @@ Future Improvements :
 - Add Custom Step (+5, -5)
 - Add Animations
 
-## 👨‍💻 Author
+Author :
 
 Vineet Vishwakarma
 
