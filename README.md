@@ -1,16 +1,37 @@
-# React + Vite
+# Counter App
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A simple Counter Application built using React.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- ➕ Increase Counter
+- ➖ Decrease Counter
+- 🔄 Reset Counter
+- ⚡ Fast and responsive UI
+- 📱 Mobile Friendly
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- JavaScript (ES6)
+- CSS3
+- HTML5
 
-## Expanding the Oxlint configuration
+## 📷 Screenshot
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+![Counter App](<img width="504" height="491" alt="Screenshot 2026-07-04 163942" src="https://github.com/user-attachments/assets/f7e5a6fb-6730-462e-9d38-f82c81b2701e" />
+)
+
+## 🎯 Future Improvements
+
+- Add Dark/Light Mode
+- Save Counter using Local Storage
+- Add Custom Step (+5, -5)
+- Add Animations
+
+## 👨‍💻 Author
+
+Vineet Vishwakarma
+
+GitHub: https://github.com/v1neetXdev
+
